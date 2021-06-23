@@ -1,0 +1,10 @@
+{
+    "name": "Ronald Leo",
+    "blocks": {
+        "/blockchain/flow": true,
+        "/blockchain/flow/cadence": true,
+        "/framework/vanilla": true,
+        "/category/nft/core-basic_nft": true,
+        "/category/voting/core-ballot": true
+    }
+}

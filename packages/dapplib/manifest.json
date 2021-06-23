@@ -1,0 +1,19 @@
+{
+    "repository": {},
+    "__outputFolder": null,
+    "blocks": [
+        {
+            "category": "nft",
+            "name": "core-basic_nft",
+            "parameters": {}
+        },
+        {
+            "category": "voting",
+            "name": "core-ballot",
+            "parameters": {}
+        }
+    ],
+    "blockchain": "flow",
+    "language": "cadence",
+    "framework": "vanilla"
+}
